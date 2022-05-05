@@ -1,10 +1,12 @@
-# Lockphish v1.0
+# Lockphish v1.0 - FIXED
 
 Lockphish it's the first tool (05/13/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
 
 
 <p align="center">
 <a href="https://github.com/JasonJerry"><img title="Author" src="https://img.shields.io/badge/Author-Jason Jerry-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/frany6710"><img title="Fixed By" src="https://img.shields.io/badge/Fixed-frany6710-red.svg?style=for-the-badge&logo=github"></a>
+  
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 <p align="center">
@@ -30,8 +32,8 @@ Usage of Lockphish for attacking targets without prior mutual consent is illegal
 
 ### Usage:
 ```
-git clone https://github.com/JasonJerry/lockphish
-cd lockphish
+git clone https://github.com/Frany6710/lockphish-fixed
+cd lockphish-fixed
 bash lockphish.sh
 ```
 
